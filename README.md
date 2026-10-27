@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clipwright is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://clipwright.io
+Clipwright provides AI-powered UGC video generation for agents. Users can submit scripts, images, or product details and receive a finished MP4 video featuring talking actors, faceless shorts, or presenter-led stories. The platform offers a REST API, MCP server, and CLI, supporting price checks, run‑id polling, and integration into autonomous agents. Clipwright aims to simplify video creation for marketing, sales, and support use‑cases, delivering customizable, brand‑consistent content at scale.
+
+**Areas:** Company · AI · Video · UGC · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://clipwright.io)
+- [Getting started](https://clipwright.io/quickstart)
+- [API reference](https://clipwright.io/docs)
+- [Pricing](https://clipwright.io/pricing)
+- [Sign up](https://app.clipwright.io/auth/sign-up)
+- [Changelog](https://clipwright.io/changelog)
+- [Terms of service](https://clipwright.io/terms)
+- [Privacy policy](https://clipwright.io/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/clipwright/](https://apis.io/providers/clipwright/).
